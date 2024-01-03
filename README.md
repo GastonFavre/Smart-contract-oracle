@@ -70,4 +70,5 @@ node provider.js
 - Ethers.js
 - Live Server
 - OpenZeppelin Contracts
-
+### Visual Demo
+![](https://github.com/GastonFavre/Smart-contract-oracle/blob/main/comunication_flow.gif)
